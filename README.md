@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Irfan Baig</h1>
-<h3 align="center">A passionate Product Designer | UI UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Mustajab Ullah Baig</h1>
+<h3 align="center">A passionate Frontend Developer | React.Js | Next.Js | Vue.Js | TailwindCss</h3>
 
 <p align="left"> <a href="https://twitter.com/_irfanullahbaig" target="blank"><img src="https://img.shields.io/twitter/follow/_irfanullahbaig?logo=twitter&style=for-the-badge" alt="_irfanullahbaig" /></a> </p>
 
